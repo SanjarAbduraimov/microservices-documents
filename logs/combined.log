@@ -1,0 +1,22 @@
+{"level":"info","message":"Connected to MongoDB","service":"user-service"}
+{"level":"info","message":"App is running on http://localhost:5000","service":"user-service"}
+{"level":"info","message":"Connected to MongoDB","service":"user-service"}
+{"level":"info","message":"App is running on http://localhost:5000","service":"user-service"}
+{"level":"info","message":"Connected to MongoDB","service":"user-service"}
+{"level":"info","message":"App is running on http://localhost:5000","service":"user-service"}
+{"level":"info","message":"Connected to MongoDB","service":"user-service"}
+{"level":"info","message":"App is running on http://localhost:5000","service":"user-service"}
+{"level":"info","message":"Connected to MongoDB","service":"user-service"}
+{"level":"info","message":"App is running on http://localhost:5005","service":"user-service"}
+{"level":"info","message":"Connected to MongoDB","service":"user-service"}
+{"level":"info","message":"App is running on http://localhost:5005","service":"user-service"}
+{"level":"info","message":"Connected to MongoDB","service":"document-service"}
+{"level":"info","message":"App is running on http://localhost:5005","service":"document-service"}
+{"level":"info","message":"Connected to MongoDB","service":"document-service"}
+{"level":"info","message":"App is running on http://localhost:5005","service":"document-service"}
+{"level":"info","message":"Connected to MongoDB","service":"document-service"}
+{"level":"info","message":"App is running on http://localhost:5005","service":"document-service"}
+{"level":"info","message":"Connected to MongoDB","service":"document-service"}
+{"level":"info","message":"Connected to MongoDB","service":"document-service"}
+{"level":"info","message":"Connected to MongoDB","service":"document-service"}
+{"level":"info","message":"App is running on http://localhost:5005","service":"document-service"}
